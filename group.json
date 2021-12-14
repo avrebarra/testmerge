@@ -1,8 +1,7 @@
 {
     "grup_a": [
         "ahmad",
-        "beni",
-        "barik"
+        "beni"
     ],
     "grup_b": [
         "toni",
@@ -17,6 +16,7 @@
         "rita"
     ],
     "grup_d": [
+        "barik",
         "shinta"
     ]
 }
